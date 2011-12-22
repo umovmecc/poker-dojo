@@ -1,3 +1,4 @@
+package br.com.dojo.poker;
 public class Card {
 
 	private String nype;
